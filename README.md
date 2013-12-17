@@ -37,9 +37,9 @@ Then import the spreadsheet tool by typing this:
 
     $ from spreadsheet import Spreadsheet
 
-Next, load the spreadsheet you want (in this example, I'm loading a spreadsheet on my Google Drive called 'test').
+Next, load the spreadsheet you want (in this example, I'm loading a spreadsheet on my Google Drive called `test`).
 
     $ sheet = Spreadsheet.load('test')
 
-Now you can programmatically manipulate it to your hearts content using the gspread library. See here for some tips: https://github.com/burnash/gspread
+Now you can programmatically manipulate it to your heart's content using the gspread library. See here for some tips: https://github.com/burnash/gspread
 
