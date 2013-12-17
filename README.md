@@ -11,7 +11,7 @@ Clone the repo, or download the zip into a folder and unzip it.
 
 Open a terminal and `cd` into that folder. 
 
-Type:
+Type the following to install the tools you need.
 
     $ ./install-gspread
 
@@ -33,7 +33,7 @@ Open the python interpreter in the Terminal by typing:
 
     $ python
 
-Then import the spreadsheet tool by tying this:
+Then import the spreadsheet tool by typing this:
 
     $ from spreadsheet import Spreadsheet
 
