@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Install pip.
+sudo easy_install pip
+
+# Install gspread.
+sudo pip install gspread
+
+# Print a message.
+echo ""
+echo "Installation done."
+
+# Exit cleanly.
+exit 0
